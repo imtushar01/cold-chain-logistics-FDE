@@ -1,4 +1,4 @@
-◊# 🧊 Cold-Chain Logistics FDE Operational Control Platform
+# 🧊 Cold-Chain Logistics FDE Operational Control Platform
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/Orchestrator-LangGraph-FF4B4B?style=for-the-badge)](https://www.langchain.com/langgraph)
